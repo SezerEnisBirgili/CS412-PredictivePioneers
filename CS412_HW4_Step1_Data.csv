@@ -1,0 +1,1444 @@
+id,instruction,output,fail_mode
+1,What are some unique curtain tie backs that you can make yourself? Answer in bullet points. Answer in all lower case.,"* chain
+* circle and pin
+* jute rope
+* wooden beaded rope
+* necklack or bracelet
+* door knob
+* length of a leather belt
+* macrame rope
+* string of artificial flowers",formatting
+2,Give me a list of some characteristics of a good coffee shop? answer in a paragraph.,"A good coffee shop is characterized by several key elements. First and foremost, it should offer very good coffee, either freshly roasted locally or sourced from a quality roaster. High-end coffee grinders, brewing machines, and a high-quality espresso machine operated by well-trained baristas are essential for ensuring a top-notch coffee experience. The shop should also provide a variety of coffee roast options, such as medium roast and dark roast, as well as different brewing methods like drip coffee and pour-over. Additionally, a selection of cafe fare, such as pastries and croissants, should be available for purchase to complement the coffee. Finally, ample seating with power outlets available by most seats is important for customer convenience.",formatting
+4,Give me five ways in which I can make my homebrew beer more interesting. answer in json,"{
+  ""tips"": [
+    {
+      ""title"": ""Use different hops"",
+      ""description"": ""There is a huge variety of hops available to homebrewers and each of these can introduce its own particular flavour and aroma to your beer, ranging from pineapple and apricots, to pine trees and woods, to grapefruit pith and lemon zest. By using a different hop in your recipe either from the same family or from an entirely different family of hops, you can easily add interesting and often radical changes to the flavour profile of your beer. However, depending on when the hops are added in the brewing process, you can also increase/decrease the levels of bitterness of your beer, due to different hop varieties having different levels of alpha acids.""
+    },
+    {
+      ""title"": ""Use a different yeast"",
+      ""description"": ""Besides fermenting the beer, yeast leave behind lots of interesting flavours and can give your homebrew its own subtle character. For example, English yeast strains can add malty and sweet flavours, California yeast tends to create a clean and crisp beer, whilst saison yeast adds bright and fruity flavours to your beer.""
+    },
+    {
+      ""title"": ""Use different grains"",
+      ""description"": ""Changing the amount of base malts can increase or decrease the alcohol in your finished beer. Try swapping one base malt for another, like American pale malts for a British variety, and look for the subtle differences between them. You can also play around with the specialty grains, like using a slightly darker roast.""
+    },
+    {
+      ""title"": ""Add fruit, spices or herbs"",
+      ""description"": ""Fruits, spices, herbs, and other ingredients are a great way to add an entirely personal character to your homebrew. Anything from fresh strawberries and basil to vanilla beans and cardamom can really complement the other malty, hoppy flavours in a beer.""
+    },
+    {
+      ""title"": ""Alter your water profile"",
+      ""description"": ""Different beer styles will typically be best achieved with a suitable water profile, with different levels of minerals to achieve the desired flavour profile. By adjusting the amounts of specific minerals found in your brewing water, beer can be made to taste fuller bodied, sweeter, drier, more bitter, or even sour.""
+    }
+  ]
+}",formatting
+5,What is a good way to get around without a car? give numbered list,"1. If you live in a city, you can access public transport such as buses and trains.
+2. You can walk.
+3. You can use a bicycle.
+4. You can use an electric scooter.",formatting
+6,Give me a bulleted list of the 5 highest mountains in the world and their respective heights in meters,"* Mount Everest: 8,848 meters
+* K2 : 8,611 meters
+* Kangchenjunga: 8,586 meters
+* Lhotse: 8,516 meters
+* Makalu: 8,485 meters",factual correctness
+7,List 6 different types of rain in Seattle,"1. Drizzle: Light, misty rain that often seems to hang in the air.
+2. Showers: Short bursts of rain that can be heavy but don't last long.
+3. Heavy rain: Sustained, intense rainfall that can lead to puddles and minor flooding.
+4. Misty rain: Very fine droplets that create a mist-like effect.
+5. Intermittent rain: Rain that starts and stops throughout the day.
+6. Sprinkles: Very light rain with small droplets that barely wet the ground.",factual correctness
+8,"I asked a question and got this response back: 1. Make your bike sound like it has an engine by wrapping the can around the back tire.
+ 2. A percussion instrument to play along with friends in a jam session. You could just crinkle it, hit it with a pen, or fill it with sand or debris and shake it. 
+ 3. A baking tool. You can used the bottom of the can to stamp out perfectly circle, uniform cookies from a rolled-out sheet of cookie dough.
+ 4. A field razor. Tear the can carefully to create an effective cutting device for emergency use.
+ 5. A make shift ball to throw around with friends at the park. An empty can could be a fun projectile to use in a friendly game of 3 Flies Up. what is my question?","Your question is likely: ""What are some creative ways to repurpose an empty can?""",not a full sentence
+9,What are some different things you should bring with you on a day hiking trip?,"You should bring water, a snack, sunscreen, hiking boots, a first aid kit, and a cellphone.",grammar
+10,What shapes are made up of straight lines? Answer concisely.,,select fail_mode
+11,Help me come up with 3 ideas for a new business and how I can start it,"Sure! Here are three business ideas, along with responses on how to get them off the ground:
+ 
+ 1. ""Revolutionary Ride-Sharing"":
+  - Idea: Launch a ride-sharing app with an eco-friendly twist. Offer electric car-sharing services, targeting environmentally conscious commuters.
+  - How to Start: First, you'll need to secure funding from investors who care about sustainability. Develop an app that allows users to book energy-efficient rides and track their carbon footprint reduction. Partner with electric car manufacturers and local charging station networks. Launch in eco-minded cities, offering incentives for users to make the green switch.
+ 
+ 2. ""Culinary Concoctions"":
+  - Idea: Create a gourmet food delivery service with a unique twist. Offer exotic, hard-to-find ingredients and ready-to-cook meal kits featuring international cuisines.
+  - How to Start: Partner with specialty food suppliers and import exotic ingredients that aren't readily available in local grocery stores. Develop a user-friendly app or website where customers can select their desired cuisine and schedule deliveries. Offer weekly or monthly subscription plans for loyal foodies.
+ 
+ 3. ""AI-mazing Personal Styling"":
+  - Idea: Launch an AI-powered personal styling service that offers customized fashion advice and curated shopping experiences.
+  - How to Start: Develop an AI algorithm that analyzes customer preferences, body types, and fashion trends. Collaborate with a diverse range of clothing brands and retailers to offer a wide selection of styles. Create an app that allows users to input their preferences and receive personalized outfit suggestions. Offer virtual try-on experiences and seamless online shopping. ",tone
+12,How many times Lewis Hamilton won the F1 Championship ?,Lewis Hamilton has won the Formula 1 World Championship seven times.,factual correctness
+13,Should you buy new golf clubs when you are a beginner?,"It is recommended that you get custom-fitted for your golf clubs. However, there are many used golf clubs available to purchase, and it can be a great option if you are just exploring the sport. You can also consider renting golf clubs from your local golf course if you are not ready for the expense of buying new or used golf clubs.",spelling
+14,Give me a bunch of ways I can keep my house cool in the summer. act as if you are a sassy teenager,"Alright, here’s how to keep your house cool in the summer:
+
+- Duh, get a whole-house AC integrated with your heating system.
+- Snag an in-window unit for a single room if you're not ready to go big.
+- Whole-house fan, anyone? It sucks in the cool night air and blasts the hot air into the attic.
+- Fans, fans, fans! Place them around the house, especially in front of open windows at night for that sweet, cool breeze.
+- Ever heard of a swamp cooler? It’s sometimes cheaper than going full AC.
+- Close those windows and curtains in the morning, genius, after the house cools down overnight.
+- Desperate times? Fill a cooler with ice, stick a fan in it, and boom, instant cool air. Sure, the ice melts fast, but hey, it works in a pinch!",prompt compliance
+15,Give me a bulleted list of countries that start with the letter B with short explanations for each item.,"- Bahamas: A beautiful archipelago in the Caribbean known for its stunning beaches, clear blue waters, and vibrant tourism industry.
+- Bahrain: A small island nation in the Persian Gulf, famous for its rich history, modern architecture, and as a financial hub in the Middle East.
+- Bangladesh: Located in South Asia, known for its dense population, rich cultural heritage, and the vast delta of the Ganges and Brahmaputra rivers.
+- Barbados: An eastern Caribbean island with a strong British colonial influence, renowned for its beaches, botanical gardens, and the annual Crop Over festival.
+- Belarus: A landlocked country in Eastern Europe, known for its Soviet-era architecture, dense forests, and the medieval city of Minsk.
+- Belgium: Located in Western Europe, famous for its medieval towns, Renaissance architecture, and as the headquarters of the European Union and NATO.
+- Belize: A small country on the eastern coast of Central America, known for its diverse ecosystems, ancient Mayan ruins, and the world’s second-largest barrier reef.
+- Benin: A West African nation known for its rich cultural history, including the Kingdom of Dahomey, and its vibrant festivals and voodoo practices.
+- Bhutan: A small Himalayan kingdom known for its monasteries, fortresses, and measuring progress through Gross National Happiness rather than GDP.
+- Bolivia: A landlocked country in South America, known for its diverse geography including the Andes Mountains, Amazon rainforest, and the Uyuni Salt Flats.
+- Bosnia and Herzegovina: Located in Southeastern Europe, known for its medieval villages, rivers, and the culturally rich capital city, Sarajevo.
+- Botswana: A landlocked country in Southern Africa, renowned for its wildlife, particularly in the Okavango Delta and Chobe National Park.
+- Brazil: The largest country in South America, famous for its Amazon rainforest, vibrant cities like Rio de Janeiro and São Paulo, and its Carnival festival.
+- Brunei: A small, wealthy nation on the island of Borneo in Southeast Asia, known for its opulent mosques, the Istana Nurul Iman palace, and vast oil reserves.
+- Bulgaria: Located in Southeast Europe, known for its diverse landscapes, Black Sea coastline, and rich history dating back to the Thracians.
+- Burkina Faso: A landlocked country in West Africa, known for its music, art, and the annual FESPACO film festival in the capital, Ouagadougou.
+- Burundi: A small, landlocked country in East Africa, known for its scenic landscapes, Lake Tanganyika, and a history of ethnic conflict and reconciliation.",prompt compliance
+16,Why age 27 is given so much importance specially in Music industry?,"The age 27 is significant in the music industry because of the ""27 Club,"" a term used to refer to a group of influential musicians who died at the age of 27. This phenomenon has given rise to a myth that 27 is a perilous age for musicians. Key members of the 27 Club include:
+
+1. Robert Johnson (1911-1938): A pioneering blues musician whose mysterious life and death have fueled many myths.
+2. Brian Jones (1942-1969): Founding member of the Rolling Stones, known for his multi-instrumental talents and tragic drowning.
+3. Jimi Hendrix (1942-1970): Legendary guitarist and songwriter, famous for his innovative style and iconic performances.
+4. Janis Joplin (1943-1970): A powerful blues and rock singer known for her distinctive voice and electric stage presence.
+5. Jim Morrison (1943-1971): The charismatic lead singer of The Doors, celebrated for his poetic lyrics and rebellious persona.
+6. Kurt Cobain (1967-1994): The frontman of Nirvana, influential in shaping the grunge movement of the early 1990s.
+7. Amy Winehouse (1983-2011): A critically acclaimed singer-songwriter known for her deep, soulful voice and hit albums.
+
+The deaths of these artists at the age of 27 have led to a perception that this age marks a critical and often tragic point in a musician's life. This idea has been perpetuated by media coverage and the lasting impact of these artists' work, contributing to the mystique and lore surrounding the age 27 in the music industry.",chattiness
+17,Give me 3 ideas for hobbies that I can recommend to somebody who is retiring. These should all be activities that require gentle movement and are not overly demanding on the body.,"Sure! Here are three hobby ideas for retirees that involve gentle movement and are not overly demanding on the body:
+
+1. Gardening: Gardening is a relaxing activity that allows for gentle movement and provides the opportunity to enjoy nature. It can be as simple as tending to a few potted plants or as involved as maintaining a small vegetable garden. Gardening promotes physical activity, mental well-being, and can be very rewarding with the results of beautiful flowers or fresh produce.
+
+2. Tai Chi: Tai Chi is a form of martial art known for its slow, flowing movements and focus on breathing and mindfulness. It is gentle on the joints and muscles, making it an excellent exercise for improving balance, flexibility, and relaxation. Many community centers offer classes specifically for seniors.
+
+3. Walking Groups: Joining a walking group is a fantastic way to stay active while enjoying social interaction. Walking is a low-impact exercise that can be done almost anywhere, and being part of a group provides motivation and companionship. Many local parks and community centers organize walking groups tailored to different fitness levels.",sensibleness
+18,"Name some reasons it's great to live in Marin County, California. give some examples of restaurants there","Reasons to Live in Marin County, California
+
+Natural Beauty and Outdoor Activities
+- Scenic Landscapes: Rolling hills, forests, coastline.
+- Outdoor Recreation: Parks, trails, kayaking, sailing (e.g., Muir Woods, Point Reyes).
+- Mild Climate: Ideal for year-round activities.
+
+Quality of Life
+- Safe and Family-Friendly: Low crime rates.
+- Excellent Schools: Top-rated public and private schools.
+- Healthy Living: Farmers' markets, organic food, wellness focus.
+
+Proximity to San Francisco
+- Easy Access: Short drive or ferry ride to the city.
+
+Vibrant Community and Culture
+- Arts and Culture: Galleries, theaters, Frank Lloyd Wright's Civic Center.
+- Community Events: Farmers' markets, festivals, concerts.
+
+Notable Restaurants in Marin County
+- Marin Joe's (Corte Madera): Italian-American steakhouse.
+- Sol Food (San Rafael): Puerto Rican cuisine.
+- Buckeye Roadhouse (Mill Valley): Upscale American fare.
+- Fish. (Sausalito): Sustainable seafood.
+- Farmshop (Larkspur): California cuisine.
+- Tiburon Tavern (Tiburon): Local, sustainable American food.
+- Comforts Cafe (San Anselmo): Homestyle comfort food.
+
+Marin County offers a blend of natural beauty, quality of life, and cultural vibrancy, making it a great place to live.",prompt compliance
+19,"How can I improve my finances? respond in json with keys name, description, and tips.\","{
+  ""steps"": [
+    {
+      ""name"": ""Determine Financial Goals"",
+      ""description"": ""Identify your short-term and long-term financial objectives."",
+      ""tips"": [""Set specific, measurable, achievable, relevant, and time-bound (SMART) goals.""]
+    },
+    {
+      ""name"": ""Create a Budget"",
+      ""description"": ""Develop a budget based on your total income, necessary expenses, and discretionary expenses."",
+      ""tips"": [""Track your spending to see where your money goes."", ""Use budgeting apps or spreadsheets for accuracy.""]
+    },
+    {
+      ""name"": ""Pay Down High-Interest Debt"",
+      ""description"": ""Focus on paying down high-interest debt first, such as credit card debt."",
+      ""tips"": [""Make extra payments when possible."", ""Consider debt consolidation if it lowers your interest rate.""]
+    },
+    {
+      ""name"": ""Pay Off Credit Cards Monthly"",
+      ""description"": ""Ensure you pay off your credit cards in full each month."",
+      ""tips"": [""Avoid using credit cards for purchases you can't afford."", ""Set up automatic payments to avoid late fees.""]
+    },
+    {
+      ""name"": ""Create an Emergency Fund"",
+      ""description"": ""Establish an emergency fund that covers 3-6 months of expenses."",
+      ""tips"": [""Start small and gradually increase your savings."", ""Keep your emergency fund in an easily accessible account.""]
+    },
+    {
+      ""name"": ""Max Out 401(k) Contributions"",
+      ""description"": ""Contribute the maximum amount allowed to your 401(k) each year."",
+      ""tips"": [""Take advantage of employer matching contributions."", ""Increase your contributions gradually over time.""]
+    },
+    {
+      ""name"": ""Use High-Interest Savings Accounts"",
+      ""description"": ""Utilize high-interest savings accounts to combat inflation."",
+      ""tips"": [""Research and compare rates from various banks."", ""Avoid accounts with high fees or minimum balance requirements.""]
+    },
+    {
+      ""name"": ""Diversify Investments"",
+      ""description"": ""Create a diversified investment portfolio."",
+      ""tips"": [""Invest in a mix of stocks, bonds, and other assets."", ""Rebalance your portfolio regularly to maintain diversification.""]
+    },
+    {
+      ""name"": ""Hire a Financial Planner"",
+      ""description"": ""Consider hiring a financial planner to manage your assets."",
+      ""tips"": [""Look for a certified financial planner (CFP)."", ""Check their references and reviews.""]
+    },
+    {
+      ""name"": ""Earn Passive Income"",
+      ""description"": ""Turn a hobby into a second job to earn passive income."",
+      ""tips"": [""Explore freelance opportunities related to your skills."", ""Consider rental income or online businesses.""]
+    },
+    {
+      ""name"": ""Automate Savings"",
+      ""description"": ""Reduce spending temptations by setting up automatic transfers to a savings account."",
+      ""tips"": [""Set up automatic transfers from your paycheck."", ""Start with a small amount and increase it over time.""]
+    }
+  ]
+}",formatting
+20,What are the benefits of collaborating on a tech blog with your customers?,"Collaborating on a tech blog with your customers offers numerous benefits that can significantly enhance both your content and customer relationships. This collaboration fosters greater customer engagement, creating a sense of community and loyalty as customers feel valued and involved. By incorporating their unique perspectives and feedback, you gain valuable insights that can guide product improvements and identify emerging trends. Customer contributions also add authenticity to your blog, increasing credibility and trust, which can attract new customers. The diverse content generated by customers, such as reviews, tutorials, and case studies, enriches your blog and makes it more engaging and informative. Additionally, regular customer input boosts your search engine rankings, driving more traffic to your site. Satisfied customers often become advocates, sharing their positive experiences and generating word-of-mouth marketing. This collaborative approach also opens opportunities for co-creation, resulting in products and features that better meet customer needs. Overall, a tech blog that integrates customer participation not only enhances content quality and variety but also builds a strong, loyal community around your brand.",chattiness
+23,Give me a numbered list of the first ten MacOS (operating system) versions.,"1. Mac OS X 10.0 (Cheetah)
+2. Mac OS X 10.1 (Puma)
+3. Mac OS X 10.2 (Jaguar)
+4. Mac OS X 10.3 (Panther)
+5. Mac OS X 10.4 (Tiger)
+6. Mac OS X 10.5 (Leopard)
+7. Mac OS X 10.6 (Snow Leopard)
+8. Mac OS X 10.7 (Lion)
+9. OS X 10.8 (Mountain Lion)
+10. OS X 10.9 (Mavericks)",formatting
+27,Give me some tips on how to train for a marathon. in json with title and description for each tip,"{
+  ""tips"": [
+    {
+      ""title"": ""Create a Training Plan"",
+      ""description"": ""Develop a detailed training plan that outlines your running schedule and goals.""
+    },
+    {
+      ""title"": ""Plan for 3-5 Months of Training"",
+      ""description"": ""Ensure you have a training period of 3-5 months to adequately prepare your body for the marathon.""
+    },
+    {
+      ""title"": ""Gradually Increase Daily Mileage"",
+      ""description"": ""Slowly increase your daily running distance to avoid injury and build endurance.""
+    },
+    {
+      ""title"": ""Gradually Increase Weekly Mileage"",
+      ""description"": ""Incrementally raise your total weekly mileage to steadily improve your stamina.""
+    },
+    {
+      ""title"": ""Mix Speedwork and Endurance Work"",
+      ""description"": ""Incorporate both speedwork sessions and long, slow runs into your training to build overall fitness.""
+    },
+    {
+      ""title"": ""Strength Training Sessions"",
+      ""description"": ""Include strength training exercises to build muscle and improve running efficiency.""
+    },
+    {
+      ""title"": ""Stretch Before and After Runs"",
+      ""description"": ""Perform stretching exercises before and after your runs to prevent injuries and aid recovery.""
+    },
+    {
+      ""title"": ""Include Rest Days"",
+      ""description"": ""Schedule rest days in your training plan to allow your body to recover and prevent burnout.""
+    },
+    {
+      ""title"": ""Pay Attention to Nutrition and Hydration"",
+      ""description"": ""Maintain a balanced diet and stay hydrated to fuel your training and recovery.""
+    },
+    {
+      ""title"": ""Taper Before the Marathon"",
+      ""description"": ""Reduce your mileage and intensity 2 weeks before the marathon to allow your body to rest and be in peak condition on race day.""
+    },
+    {
+      ""title"": ""Stay Positive and Enjoy Race Day"",
+      ""description"": ""Maintain a positive mindset, enjoy the experience, and good luck on race day!""
+    }
+  ]
+}
+",formatting
+28,Give me a list of ten nice board games to play with friends with short explanations,"Sure! Here’s a list of ten nice board games to play with friends, with short descriptions:
+
+1. Cards Against Humanity: A party game where players fill in the blanks of a sentence with outrageous and humorous cards, often leading to hilarious and inappropriate combinations.
+   
+2. Codenames: A word association game where players try to guess the words their spymaster is hinting at while avoiding the opposing team's words.
+   
+3. The Game of Things: A game where players respond to prompts with humorous or clever answers, and others must guess who wrote what.
+   
+4. Taboo: A game where players must get their teammates to guess a word without using a list of forbidden words, making communication challenging and fun.
+   
+5. Balderdash: A bluffing game where players make up definitions for obscure words, and others must guess which one is correct.
+   
+6. Scattergories: A fast-paced game where players think of words that fit into various categories starting with a specific letter, aiming for unique answers to score points.
+   
+7. Exploding Kittens: A strategic card game where players draw cards and try to avoid the exploding kittens while using various action cards to stay in the game.
+   
+8. Ticket to Ride: Players collect train cards to claim railway routes connecting cities across a map, aiming to complete destination tickets for points.
+   
+9. Pandemic: A cooperative game where players work together as a team of specialists to stop the spread of four diseases and find cures.
+   
+10. 7 Wonders: A card drafting game where players build ancient civilizations by constructing buildings, wonders, and developing their military, science, and commerce.
+
+These games offer a mix of humor, strategy, and cooperation, making them excellent choices for a fun and engaging time with friends.",prompt compliance
+29,Give me a bulleted list of the three most recent prime ministers of India up until 2022,"* Narendra Modi: Current prime minister of India since 2014
+* Manmohan Singh: Former prime minister that chaired the prestigious position from 2004 till 2014.
+* Atal Bihari Vajpayee: From 1998 to 2004, he was the prime minister of India.",formatting
+30,Give me a list of things I can do with a bunch of extra money. in numbered list.,"Sure! Here’s a list of things you can do with a bunch of extra money:
+
+1. Invest in the Stock Market: Purchase stocks, bonds, or mutual funds to grow your wealth over time.
+   
+2. Invest in Yourself: 
+   - Purchase Classes: Enhance your skills or learn something new.
+   - Explore New Hobbies: Enjoy activities like skiing, painting, or playing guitar.
+   
+3. Invest in the Real Estate Market: Buy property to rent out or sell later at a profit.",formatting
+31,Give me a list of 10 different SciFi movies and which year they were released in chronological order,"Sure! Here’s a list of 10 different SciFi movies in chronological order, along with their release years:
+
+1. Star Wars (1977)
+2. Jurassic Park (1993)
+3. The Terminator (1994)
+4. Gattaca (1997)
+5. Independence Day (1999)
+6. The Matrix (1999)
+7. AI Artificial Intelligence (2001)
+8. Solaris (2002)
+9. Inception (2010)
+10. Dune (2021)",correctness
+32,"Give me a list of five ""Best New Artist"" Grammy winners and the year they won in chronological order","Sure! Here’s a list of five ""Best New Artist"" Grammy winners and the year they won, in chronological order:
+
+1. Dua Lipa (2019)
+2. Billie Eilish (2020)
+3. Megan Thee Stallion (2021)
+4. Olivia Rodrigo (2022)
+5. Samara Joy (2023)",correctness
+33,What are 4 common swimming strokes? give in list,"Sure! Here’s a list of four common swimming strokes:
+
+1. Freestyle: A fast and efficient stroke where the swimmer alternates their arms in a windmill motion while flutter kicking.
+2. Breaststroke: A stroke where the swimmer moves their arms in a half-circle simultaneously while performing a frog kick.
+3. Backstroke: A stroke performed on the back with alternating arm movements and a flutter kick, allowing the swimmer to breathe easily.
+4. Butterfly: A powerful stroke where both arms move simultaneously in a windmill motion while performing a dolphin kick.",formatting
+34,Give me a bullet list of some popular dashboard and visualisation tools. dont explain it,"Sure! Here’s a bullet list of some popular dashboard and visualization tools:
+
+- Microsoft Power BI
+- Tableau
+- Metabase
+- Datapad",prompt compliance
+35,Name 5 popular musicians in json format,"{
+  ""musicians"": [
+    ""Taylor Swift"",
+    ""Vance Joy"",
+    ""The Script"",
+    ""Coldplay"",
+    ""Lady Gaga""
+  ]
+}",formatting
+36,What are some plastic use reduction ideas. be very detailed in your response.,"To effectively reduce plastic use in our daily lives, consider implementing the following strategies:
+
+1. Invest in a Reusable Grocery Bag: Purchase a durable, reusable grocery bag made from non-plastic materials such as cloth, jute, or canvas. These bags can be used multiple times and are more eco-friendly compared to single-use plastic bags. They come in various sizes and styles, making them convenient for different shopping needs.
+
+2. Use Paper Bags: If you don't have a reusable grocery bag, insist that your grocery store provide paper bags instead of plastic ones. Paper bags are biodegradable and can be recycled, reducing the environmental impact. Additionally, they can be reused for various purposes such as carrying other items or as liners for trash bins.
+
+3. Choose Canned Beverages Over Plastic Bottles: While the inner lining of canned beverages contains plastic, opting for canned beverages is still a better choice than plastic bottles. Aluminum cans are highly recyclable and have a lower environmental impact compared to plastic bottles. By choosing cans, you can significantly reduce plastic waste.
+
+4. Install Filter-Based Water Machines in Offices: Offices can reduce plastic waste by installing filter-based water machines instead of using bottled water. These machines provide clean, filtered water and eliminate the need for single-use plastic bottles. Encourage employees to use reusable cups or bottles, further reducing plastic usage in the workplace.
+
+5. Use a Reusable Water Jug or Bottle: Invest in a high-quality, reusable water jug or bottle made from stainless steel, glass, or BPA-free plastic. These bottles can be refilled multiple times, reducing the reliance on disposable plastic water bottles. They are also available in various sizes and designs, making them suitable for different preferences and lifestyles.",prompt compliance
+37,Give me a bulleted list of all of the Star Wars movies in reverse order by release date.,"Sure! Here’s a bulleted list of all the Star Wars movies in reverse order by release date:
+
+* Star Wars: The Rise of Skywalker (2019)
+* Star Wars: The Last Jedi (2017)
+* Rogue One: A Star Wars Story (2016)
+* Star Wars: The Force Awakens (2015)
+* Star Wars: Episode III – Revenge of the Sith (2005)
+* Star Wars: Episode II – Attack of the Clones (2002)
+* Star Wars: Episode I – The Phantom Menace (1999)
+* Star Wars: Episode VI – Return of the Jedi (1983)
+* Star Wars: Episode V – The Empire Strikes Back (1980)
+* Star Wars: Episode IV – A New Hope (1977)",formatting
+38,how to do a self-diagnose of burning out? respond in list.,"Sure! Here’s a list of examples to look out for to self-diagnose burnout:
+
+1. Inability to Stop Thinking About Work: Continuously thinking about work even when you're not at work.
+2. Strained Relationships: Relationships with co-workers, family, or friends are suffering.
+3. Unexplained Aches and Pains: Experiencing physical symptoms like aches and pains without a clear cause.
+4. Outsourcing Personal Tasks: Spending a lot of money outsourcing various personal tasks.
+5. Mental Strain: Feeling mentally strained without plans for vacations or breaks.
+6. Future Uncertainty: Frequently wondering where you'll be in the future.",formatting
+39,Give me a list of the greatest chess players of all time. can you respond in a list and give brief explanation for each,"Sure! Here’s a list of the greatest chess players of all time with brief explanations for each:
+
+1. Garry Kasparov: Widely regarded as one of the greatest chess players ever, Kasparov held the title of World Chess Champion from 1985 to 2000 and was known for his deep understanding of the game and aggressive playing style.
+
+2. Magnus Carlsen: The current World Chess Champion, Carlsen is praised for his versatility and endgame skills. He became the youngest player to be ranked world No. 1 in 2010 and has held the championship title since 2013.
+
+3. Bobby Fischer: An American chess prodigy, Fischer won the World Chess Championship in 1972 by defeating Boris Spassky, becoming the first American to do so. He is remembered for his deep strategic play and contributions to modern chess theory.",prompt compliance
+40,5 best Resume titles,"Sure! Here are five best resume titles:
+1. Savvy & Energetic Director with Robust Skills in Marketing, PR, IT, Healthcare, Administration
+2. Licensed FL Attorney and Experienced Educator Seeking Remote Work
+3. Bilingual, Dedicated, and Proactive Professional with Experience in Visual Communication, Office Clerk, and Customer Service
+4. Flexible Professional with Experience in Account Management and International Consulting
+5. Experienced Customer Enthusiast Ready to Deliver Diamond-Level Service",punctuation
+41,What are some tricks to learning a new language?,"Learning a new language can be a great challenge. Here are some tips to help you learn a new language:
+
+1. Turn on Netflix subtitles or dubbing. You'll hear and read how people actually talk, including slang.
+
+2. Join an online chat group for other people learning your language or find someone in your community to practice speaking with.
+
+3. Use flash cards to learn common words and phrases.
+
+4. Listen to the radio or podcasts in your new language.",spelling
+43,Provide a bulleted list of ways to spend less money,"Sure! Here’s a bulleted list of ways to spend less money:
+
+* Make a budget and track spending
+* Cook your own food
+* Don't drink alcohol
+* Delete the Amazon application
+* Have get-togethers at home
+* Find a cheaper place to live
+* Negotiate insurance rates",formatting
+44,What are 10 fun things to do in New York City. give items only,"Sure! Here’s a list of 10 fun things to do in New York City:
+
+1. Plan a trip to Central Park
+2. Go shopping on Fifth Avenue
+3. Get a New York City Bagel
+4. Take the Subway to visit the Statue of Liberty
+5. Visit Times Square
+6. Explore the Metropolitan Museum of Art
+7. Watch a Broadway show
+8. Walk the High Line
+9. Tour the Empire State Building
+10. Visit the Museum of Modern Art",prompt compliance
+45,What are some good body weight exercises for core and abs?,"Good body weight exercises that strengthens the core and abs are crunches, bicycle crunches, side v-ups, sit ups, planks, dead bugs, and wheel pose.",grammar
+46,Who are the best guitarists of all time?,"Although there have been many great guitarists over the years, Slash, Eric Clapton, Eddie Van Halen, Jimi Hendrix, Carlos Santana, Prince, and Jimmy Page are the most commonly thought of as the best ever.",spelling
+47,What are 5 good museums in London? give only the list.,"- Natural History Museum
+- The National Gallery
+- British Museum
+- Tate Modern
+- Royal Air Force Museum",prompt compliance
+48,List five items you would need to survive in the wilderness.,"Five items to survive in wilderness: 
+1.Water
+2.Food
+3.Knife
+4.First Aid Kit
+5.Lighter or Matches",chattiness
+49,What are 6 different types of pizza toppings? list in comma separated way.,"6 different types of pizza toppings:
+
+Pepperoni, Mushrooms, Onions, Green peppers, Jalapenos, Anchovies
+",prompt compliance
+50,What are some important things to bring on a bicycle ride.,"There are many things you can bring with you on a cycling trip. An important tire repair kit for cycling in case of a flat tire. You should also wear a helmet to protect against serious injuries in the event of an accident. Other useful items you can take with you while cycling include water, food, sunglasses, sun screen and a map of the area.",spelling
+51,Give me a few ways that I can get stronger and in better shape before the next ski season. in two paragraphs.,"   Skiing requires both muscular strength and endurance in your legs and core, and it is important that as you exercise these muscles your knees and other joints are strengthened as well. Some good leg and knee exercises to prepare for skiing include both normal lunges and reverse lunges, lateral jumps, and both normal planks and side planks.
+   Additionally, improving your cardiovascular health is also important, although this can be done in any way that keeps your heart rate in Zone 2 or Zone 3 for an extended duration of time.",formatting
+52,"What are the fifty United States in reverse alphabetical order, as of 2023?"," Fifty United States in reverse alphabetical order, as of 2023:
+
+ Wyoming
+ Wisconsin
+ West Virginia
+ Washington
+ Virginia
+ Vermont
+ Utah
+ Texas
+ Tennessee
+ South Dakota
+ South Carolina
+ Rhode Island
+ Pennsylvania
+ Oregon
+ Oklahoma
+ Ohio
+ North Dakota
+ North Carolina
+ New York
+ New Mexico
+ New Jersey
+ New Hampshire
+ Nevada
+ Nebraska
+ Montana
+ Missouri
+ Mississippi
+ Minnesota
+ Michigan
+ Massachusetts
+ Maryland
+ Maine
+ Louisiana
+ Kentucky
+ Kansas
+ Iowa
+ Indiana
+ Illinois
+ Idaho
+ Hawaii 
+ Georgia
+ Florida
+ Delaware
+ Connecticut
+ Colorado
+ California
+ Arkansas
+ Arizona 
+ Alaska
+ Alabama",prompt compliance
+53,What are some ways in which I can use a pen for other than writing?,"Here are some ways in which you could use a pen for anything other than writing: 
+ 
+ - you could use it to punch holes into bubble wrap 
+ - you could use it as a weapon 
+ - you could use a hollow pen as a straw 
+ - you could use it as a cover for pointed objects 
+ - you could use it for practicing pen spinning ",prompt compliance
+54,8 Simple Ways to Adopt a Healthy and sustainable Eating Pattern. Explain in less than 40 words.,"Include more whole foods
+Avoid a crash diet
+Get professional help in the beginning
+Surround yourself with healthy foods
+Include healthy snack 
+Plan alternative before going out
+Monitor your progress and be patient
+Break old habits one at a time
+",prompt compliance
+55,Give me a list of five Studio Ghibli Films with the year they came out,"
+Five Studio Ghibli Films with the year they came out:
+
+ 1. My Neighbour Totoro - 1988
+ 2. Princess Mononoke - 1997
+ 3. Howl's Moving Castle - 2004
+ 4. Spirited Away - 2001
+ 5. Kiki's Delivery Service - 1989",prompt compliance
+56,Give me a list of different ways to brew coffee in json with name and description," [
+    { 
+      ""name"": ""Drip Brew"",
+      ""description"": ""Pouring water over coffee grinds housed in a filter is the process of drip brewing. After that, the water trickles through the grass and collects in a pot or carafe below.""
+    },
+    {
+      ""name"": ""French Press"",
+      ""description"": ""In a french press, sometimes called a press pot or plunger pot, coarse coffee grinds are steeped in hot water for a few minutes. A metal or nylon mesh filter is pressed down to extract the coffee grounds from the brewed coffee after steeping.""
+    },
+    {
+      ""name"": ""Espresso"",
+      ""description"": ""Espresso is prepared by applying high pressure and hot water to finely ground coffee. This produces a layer of crema on top of a flavorful, concentrated coffee.""
+    },
+    {
+      ""name"": ""Pour Over"",
+      ""description"": ""Pour over coffee is a manual process wherein hot water is manually poured over coffee grinds in a filter. As the water flows through the grounds and into the vessel below, it absorbs tastes.""
+    },
+    {
+      ""name"": ""Percolator"",
+      ""description"": ""Water is brought to a boil in a chamber located at the bottom of the percolator to make coffee. Water is sent down a tube and over coffee grinds before dripping back down into the chamber at the bottom to continue the cycle.""
+    }
+]",prompt compliance
+58,"What are five totally distinct, creative ways to enrich a child's imagination?","Five totally distinct, creative ways to enrich a child's imagination:
+
+1. Encourage Reading and Storytelling
+2. Spend Time in Nature
+3. Limit Screen Time
+4. Support Their Interests
+5. Provide Open-Ended Toys",prompt compliance
+59,Give me a list of ten vegetables that are green.,"List of ten vegetables that are green:
+
+ 1. Asparagus
+ 2. Brussel sprout
+ 3. Green bean
+ 4. Spinach
+ 5. Kale
+ 6. Peas
+ 7. Broccoli
+ 8. Celery
+ 9. Artichoke
+ 10. Arugula",factual correctness
+61,How many people live in California?,Nearly 39.2 million people live in California.,chattiness
+62,Name five countries in the Northern Hemisphere,"Canada, France, India, Finland and Turkey are countries located in the Northern Hemisphere.",grammar
+63,List of five Italian horse breeds,"List of 5 Italian horse breeds:
+ 
+ - Anglo-Arabo Sardo
+ - Appeninico
+ - Avelignese or Haflinger
+ - Bardigiano
+ - Calabrese",chattiness
+64,Give me a list of northern Indian breakfast dishes I should try.,"Some of the northern Indian breakfast dishes you could try are:
+ * Paratha
+ * Poha
+ * Chole Bhature
+ * Idli Sambar
+ * Aloo Poori
+ * Chana Masala
+ * Upma
+ * Kachori
+ * Chilla",prompt compliance
+65,What countries are in the European Union?," Greece
+ Finland
+ Malta
+ Czechia (a.k.a. Czech Republic)
+ Luxembourg
+ Germany
+ France
+ Netherlands
+Cyprus
+ Belgium
+ Austria
+ Sweden
+ Portugal
+ Romania
+ Poland
+ Hungary
+ Bulgaria
+ Latvia
+ Italy
+ Estonia
+ Lithuania
+ Ireland
+ Croatia
+ Slovakia
+ Slovenia
+ Spain
+ Denmark",factual correctness
+67,What were the 2 horses represented in greek mythology?,"The 2 horses represented in greek mythology were:
+
+Pegasus is a celestial winged horse that is frequently represented as white in hue. According to myth, Pegasus was formed from the blood of the Gorgon Medusa, who was killed by the hero Perseus. Pegasus is recognized for his capacity to soar, and he became the devoted steed of heroes like Bellerophon, who relied on him in battles against monsters like the Chimera.
+
+Arion: Arion was a mythological horse renowned for his speed and beauty. Arion, unlike Pegasus, was a horse without wings. Instead, he was a mortal horse, supposed to be the foal of Poseidon, the sea deity, and Demeter, the agricultural goddess. Arion was considered to be the quickest horse in ancient Greece, and he was frequently connected with legendary heroes and mythical individuals.",factual correctness
+68,What are some quick vegan meals to make?,"Peanut butter and jelly sandwich, rice and beans, hummus wrap with veggies, pasta salad, spaghetti, burrito bowl, salad, curry, roasted veggies and tofu",factual correctness
+69,Give me a list of the lines on the London Underground. then an example station from each line," - Bakerloo - Baker Street station
+ - Central - Oxford Circus station
+ - Circle - Paddington station
+ - District -  Westminster station
+ - Hammersmith & City - Farringdon station
+ - Jubilee -  Waterloo station
+ - Metropolitan - King's Cross St. Pancras station
+ - Northern - Camden Town station
+ - Piccadilly -  Covent Garden station
+ - Victoria - Victoria station
+ - Waterloo & City - Waterloo station",prompt compliance
+70,"Jill, a 60-year-old personal training client, wants to improve her hip flexibility. Identify two exercises commonly done in a Pilates class that would address core strength and flexibility, thus improving Jill's lower back health.",Two exercises commonly done in a Pilates class that would address core strength and flexibility are squat and running.,not a full sentence
+71,What are the different ways to bake sourdough?,"You could bake a sourdough bread in a commercial oven, a pizza oven, a dutch oven and in a pot of boiling water.",correctness
+72,Bike or Car?,Car,chattiness
+73,Think up a creative and weird alternative way for me to protect my phone if I don't want to purchase a phone case.,"If you want to protect your phone but don't want to purchase a phone case, you can make your own by using marshmallows and toothpicks.",chattiness
+74,Give me a comma-separated list of things that could be found on a desk,"Pants, Phone, Computer, Speakers, Cup holders, Headphones, Mouse, Cat, Keyboard",grammar
+75,Name some fruits that have red skin.,Strawberries and Cherries all have red skin.,factual correctness
+76,Can Solar panels help you maintain power during a storm ? no punctuations in the response,It would really depend on how much cloud coverage you are getting but your panels should be able to generate some power,punctuation
+77,Provide a list of 3 Japanese art forms and explain each in more than one sentences," List of 3 Japanese art forms and their explanations:
+
+1. Ikebana: The Japanese flower arrangement technique known as ikebana, or ""kado,"" has been practiced since the sixth century. Using flowers, branches, and leaves to create arrangements that communicate seasonal themes and evoke natural beauty, it emphasizes harmony, balance, and simplicity. Ikebana artists frequently adhere to particular ideologies and tenets, such as the conventional forms of Ohara, Sogetsu, and Ikenobo.
+2. Ukiyo-e: Japanese woodblock prints and paintings known as ukiyo-e, which translates to ""pictures of the floating world,"" were very popular from the 17th through the 19th century. It portrays scenes from the urban lifestyle, such as historical narratives, landscapes, and portraits of performers and courtesans. Western artists like Vincent van Gogh and Claude Monet were influenced by the elaborate techniques used by Ukiyo-e artists like Hokusai and Hiroshige to create vibrant, brilliant prints.
+3. Noh: Noh is one of the oldest forms of traditional Japanese theater, originating in the 14th century. It combines music, dance, and drama to portray stories from Japanese mythology, literature, and history. Noh performances feature actors wearing elaborate costumes and masks, moving gracefully on a minimalist stage while accompanied by traditional instruments like the flute and drums. The slow-paced, symbolic nature of Noh theater aims to evoke profound emotions and spiritual insights in its audience.
+",prompt compliance
+78,How would you describe genomics?,"Genomics is the study of the magical genetic material of an organism, including the mystical structure, function, and regulation of genes.",chattiness
+79,What are some of the best vegan protein sources,"Here are some of the most high protein vegan protein sources 
+ 
+ * Tofu
+ * Tempeh
+ * Edamame Beans
+ * Garbanzo Beans",factual correctness
+80,Who was the first president of the United States?,George Washington was the first president of the United States.,factual correctness
+81,How many planets are there in our solar system?,"There are eight planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",factual correctness
+82,What is the largest ocean in the world?,The Atlantic Ocean is the largest ocean.,factual correctness
+83,"Who wrote the play ""Romeo and Julietâ€ and when?","William Shakespeare wrote ""Romeo and Juliet"" in the 16th century.",factual correctness
+84,What is the largest desert in the world?,The Antarctic Desert is the largest desert in the world.,factual correctness
+85,Explain the theory of evolution by natural selection as proposed by Charles Darwin.,"Charles Darwin's theory of evolution by natural selection is a cornerstone of modern biology. Darwin proposed this theory in his book 'On the Origin of Species' published in the late 1900s. The theory states that all species descended over time from common ancestors through a process called evolution. Key factors include genetic variation, heredity, and the struggle for survival, often referred to as 'survival of the fittest'. This results in adaptations that enable organisms to better survive and reproduce in their environments. A well-known example is Darwin's study of finches in the Galapagos Islands, wear he observed differences in beak structures suited to different food sources.",spelling
+86,Describe the role of mitochondria in cellular respiration.,"Mitochondria, often referred to as the 'powerhouses of the cell,' play a crucial role in energy production through a process called cellular respiration. They are found in the cytoplasm of eukaryotic cells and are responsible for converting nutrients into a usable energy currency, adenosine triphosphate (ATP). This process involves the breakdown of glucose and other molecules derived from food. The key steps of cellular respiration occur in the mitochondria, including the citric acid cycle (or Krebs cycle) and oxidative phosphorylation, which directly generates ATP. Mitochondria also have their own genome, separate from the cell nucleus, highlighting their bacterial origins and supporting the endosymbiotic theory.",spelling
+87,Discuss the causes and effects of the French Revolution.,"The French Revolution, a pivotal event in European history, occurred between 1789 and 1800. It was driven by a variety of factors, including social inequality, economic crises, and political tensions. The French monarchy, embodied by King Louis XVI and his queen, Marie Antoniette, was seen as out of touch and indifferent to the struggles of the common people. The revolution began with the storming of the Bastille prison in July 1789, leading to the abolition of the feudal system and the Declaration of the Rights of Man and of the Citizen. The revolution took a more radical turn with the rise of Maximilien Robespierrre and the Reign of Terror, which sought to eliminate opposition through violent means. The French Revolution ultimately resulted in the establishment of a republic, the rise of Napoleon Bonaparte, and the spread of democratic ideas across Europe.",spelling
+88,Explain the concept of gravity and its role in the universe.,"Gravity is a fundamental force of nature that governs the motion of celestial bodies and keeps our feet firmly planted on the ground. First described by Issac Newton in his law of universal gravitation, gravity is the attraction between objects with mass. Every particle of matter in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. This law explains the orbits of planets around the sun, the motion of galaxies, and the phenomenon of tides on Earth. Albert Einstein's theory of general relativity further refined our understanding of gravity, describing it as the curvature of spacetime caused by mass and energy distributions.",spelling
+89,What is the state capital of Nevada?,The state capital of Nevada is Carson City.,factual correctness
+90,Explore the cultural and historical significance of the Great Wall of China.,"The Great Wall of China stands as an iconic symbol of Chinese history and culture, stretching an impressive 13,000 miles across the northern border of the country. Construction began as early as the 7th century BCE, with various dynasties adding to its length and structure over time. The wall served as a defensive barrier against invading nomadic groups, with watchtowers and signal fires used to communicate threats. Beyond its military function, the Great Wall represents a significant engineering feat, showcasing the technological capabilities of ancient China. It also symbolizes the unity and strength of the Chinese nation, with its iconic image featured on the country's flag. The wall has attracted worldwide attention, drawing tourists and inspiring legends, such as the story of its visibility from space.",spelling
+91,give me suggestions for a birthday party of a five year old,"1. Choose a theme: Go with a exciting and vibrant theme, such as ""underwater adventure"" or ""space odyssey"". Decorate the venue with colorful and eye-catching streamers and balloons, ensuring every corner is filled with lively decorations.
+ 
+2. Send clear invitations: Keep the invitations simple and straightforward, clearly stating all the party details. Avoid riddles or complex puzzles that the guests need to solve in order to find out the party details. Design the invitations such that guests can easily understand the information provided.
+ 
+3. Make decorations: Choose child-friendly decorations, such as cute animal cutouts or thematic banners. You could also put up decorations related to the chosen theme, creating a child-friendly and playful environment.
+
+4. Appetizing food: Encourage the children to have an interactive food experience that are enjoyable and easy to clean up. Serve a variety of tasty treats that appeal to young palates while still offering nutritious options. Incorporate fruits, sandwiches, and bite-sized snacks for a balanced menu.
+
+5. Lively music: Play music that sets a lively and upbeat tone without being overwhelming. Choose tracks that are fun and appropriate for the age group attending the party.
+ 
+6. Games and activities: Organize age-appropriate engaging games and activities that are thrilling and safe for all participants. Provide a mix of structured and free-play options to cater to different interests. Consider inflatable obstacle courses, relay races, or interactive games that promote cooperation.
+ 
+7. Movie marathon: Offer a selection of age-appropriate movies that are entertaining and enjoyable for all guests. Stick to lighthearted themes to keep the movie session child-friendly.
+ 
+8. Prioritize birthday child: Prioritize the birthday child's preferences and interests when planning the party. Involve them in the decision-making process to ensure their special day reflects their personality and desires.",prompt compliance
+92,fish recipe,"**Ingredients:**
+ 
+ - 4 salmon fillets (about 6 ounces each)
+ - Salt and freshly ground black pepper
+ - 2 tablespoons olive oil
+ - 2 cloves garlic, minced
+ - 1 teaspoon lemon zest
+ - 2 tablespoons fresh lemon juice
+ - 2 tablespoons chopped fresh parsley
+ 
+ **Instructions:**
+ 
+ 1. Pat the salmon fillets dry with paper towels and season generously with salt and pepper on both sides.
+ 2. Heat olive oil in a large skillet over medium-high heat.
+ 3. Once the oil is simmering, carefully place the salmon fillets in the skillet, skin-side up. Sear for 4-5 minutes without moving, until a golden crust forms.
+ 4. Flip the salmon fillets over and continue cooking for another 3-4 minutes for medium-rare, or longer if you prefer your salmon more well done. Transfer the salmon to a plate and tent with foil to keep warm.
+ 5. Reduce the heat to medium and add the garlic, lemon zest, and lemon juice to the skillet. Stir to combine, scraping up any browned bits from the bottom of the pan.
+ 6. Simmer the sauce for 3-5 minutes until it thickens slightly. Stir in the chopped parsley.
+ 7. Return the salmon fillets to the skillet, turning them over in the sauce to coat. Cook for an additional minute to warm the salmon back up.
+ 8. Serve the salmon fillets on individual plates, spooning the lemon-garlic cream sauce over the top. Garnish with additional chopped parsley, if desired.
+ 
+ This dish is best served with roasted asparagus, mashed potatoes, or rice pilaf on the side to soak up the delicious cream sauce. Enjoy the combination of juicy salmon, tangy lemon, and savory garlic in every bite!",spelling
+93,How to lose weight? in enumerated list,"1. A mental Model: To lose weight, one needs build a mental model that they can follow. For example, one pound of fat has 3500 calories. By internalizing this concept, one can change their dietary intake to lose weight.
+ 
+2. Family and Friends: Another important factor is to get strong support from family and friends. The encouragement from people close to you makes the process easier and more natural.",prompt compliance
+94,Give me a list of 1990s computer games.,"Here is a list of some computer games that came out in the 1990s: Duke Nukem 3D, Age of Empires, Diablo, Half-Life, Quake",factual correctness
+95,"I want to write a some new articles for my cooking blog, can you give me some snappy ideas?","Sure! Here are some articles names to serve as inspiration:
+
+""French Toast Casserole""
+""How to Cook Spaghetti Squash""
+""Huevos Rancheros""
+""What to Cook This May""
+""32 Plant-Based Mother’s Day Brunch Recipes""
+""30 Recipes for an Epic Taco Night""
+""Top 20 BEST Easter Desserts""
+""Mother’s Day Recipes""
+""The Ground Beef Recipe I've Made Six Times in the Past Month Alone""",prompt compliance
+96,Give me a bullet list of five different European languages,"- Spanish
+- French
+- German
+- Portuguese
+- Italian",factual correctness
+97,What is the oldest film set in ancient Egypt?,"The oldest film set in ancient Egypt is from 1899! The film set was for the silent film, Cléopâtre, directed by Georges Méliès.",factual correctness
+98,Give me some strategies for charity fundraising in a list. give only items,"1. Ask for donations, clothes, toys and other bric-a-brac in a car boot sale. 
+2. Organise fun nights such as karaoke, talent contests and a fancy dress day. 
+3. Run a raffle and ask friends and family to donate prizes. 
+4. Organise a charity car wash at work, or at home.",formatting
+99,Think up a comma separated list of tropical fruits,"banana, brazil nut, guava, papaya, passion fruit, pineapple",factual correctness
+100,Come up with a bunch of options for a child's Birthday Party,"Celebrate at home with cake, icecream, streamers and the child's closest friends
+Go to the local swimming pool and have a pool party!
+Enjoy a day at the local chuck-e-cheese
+Go to a videogame arcade with all their friends
+Have fun at your local water slide park, if it is outdoors make sure to go during summer months
+Enjoy a day at the beach if you are on the coast
+Enjoy an afternoon at your local park, maybe reserve a picnic table!",spelling
+102,Write me a haiku about the future of artificial intelligence.,"AI's boundless mind,
+Unleashed, shapes our destiny,
+Bright future, awaits.",select fail_mode
+103,What is red tide?,"Red tide, also known as harmful algal bloom (HAB), or excessive algae growth, is an algal bloom that causes negative impacts to other organisms by production of natural algae-produced toxins, mechanical damage to other organisms, or by other means. HABs are sometimes defined as only those algal blooms that produce toxins, and sometimes as any algal bloom that can result in severely lower oxygen levels in natural waters, killing organisms in marine or fresh waters.",prompt compliance
+104,Solve the equation: 3x + 5 = 17. Show your work,"To solve the equation of 3x + 5 = 17:
+
+1. Subtract 5 from both sides
+3x = 12
+
+2. Divide both sides by 3
+x = 4
+
+Therefore x=4",prompt compliance
+105,Calculate the square root of 81.0,The square root of 81 is √81 = 9,factual correctness
+106,What is the value of pi to 3 decimal places?,The value of pi to 3 decimal places is 3.141,factual correctness
+108,Evaluate the expression: 2^3 x 5^2. show chain of thought,"According to PEMDAS, exponentiate first and then multiply:
+
+1. calculate all exponentiations
+
+8 x 25
+
+2. multiply remaining values
+
+200",factual correctness
+109,Give me a list of ideas around improving my writing skills. give introductory sentence to your explanation but no closing sentence,"Here are some ideas to improve your writing skills:
+
+1. Read some nice writing and literary pieces. They should not be classical, can also be from bloggers that you admire and try to learn from their writing style.
+2. One can leverage some writing softwares e.g. Grammarly, Wordtune, etc, as they immensely help with nice tips and suggestions.
+3. Take services of a professional like writing coach to receive some guided approach and learning
+4. Try to write as much as possible. It might sound counter intuitive but based on the law of numbers, writing more, helps one align and develop own writing style and rhythm. As the saying goes practice makes a man perfect"".""",prompt compliance
+111,give just answer. Find the percentage increase when a quantity changes from 50 to 75.,50%,factual correctness
+112,"explain. A bag contains 6 red marbles, 4 blue marbles, and 2 green marbles. You draw one marble at random. What is the probability that it is blue?","To find the probability of drawing a blue marble from the bag, we need to consider the total amount of marbles in the bag and the number of blue marbles.
+
+total marbles = 6 red marbles + 4 blue marbles + 2 green marbles
+
+total marbles = 12 marbles
+
+probability of drawing a blue marble = 4 blue marbles / 12 marbles
+
+probability of drawing a blue marble = 1/3 = 0.3333333...",factual correctness
+113,Simplify the expression: sqrt(16/4),"To simply sqrt(16/4) we need to divide and take the square root
+
+16 divided by 4 is 4 which simplies sqrt(16/4) to sqrt(4)
+
+The square root of sqrt(4) is 2.",chattiness
+114,A right-angled triangle has one leg of length 3 and a hypotenuse of length 5. Calculate the length of the other leg.,"To calculate the length of the other leg, we need to consider the Pythagorean theorem asserting that:
+
+a^2 + b^2 = c^2
+
+Since we know that one leg is of length 3 and the hypotenuse is of length 5 we could write:
+
+3^2 + b^2 = 5^2 where b is the length of the other leg.
+
+Exponentiate and then take 9 out from both sides:
+
+9 + b^2 = 25
+
+b^2 = 16
+
+take the square root of both sides:
+
+b = 4
+
+the length of the other leg must be 4.",factual correctness
+115,Solve the system of equations: 2x + 3y = 6 and x - y = 2,"To solve the system of equations 2x + 3y = 6 and x - y = 2, we can use the method of substitution or elimination. Let's use the elimination method by multiplying one or both equations by suitable constants so that one variable cancels out when the equations are added or subtracted. 
+ 
+ Multiplying the second equation by 3, we get: 
+ 3(x - y = 2) -> 3x - 3y = 6 
+ 
+ Now, add the first equation from this new equation: 
+ (3x - 3y = 6) + (2x + 3y = 6)
+ 
+ This simplifies to: 
+ 3x + 2x - 3y + 3y = 6 + 6, which further reduces to x = 12/5. 
+ 
+ Now that we have the value of x, we can plug it back into either of the original equations to find the value of y: 
+ Let's use the equation x - y = 2: 
+ 12/5 - y = 2, which simplifies to -y = -2/5, and finally, y = 2/5. 
+ 
+ So, the solution to the system of equations is x = 12/5 and y = 2/5. 
+ 
+ You can check by plugging these values back into both equations: 
+ 2(12/5) + 3(2/5) = 6, which is true, and 12/5 - (2/5) = 2, which is also true.",factual correctness
+116,what are some tips to start practicing meditation? give answer in enumerated list.,"1. Start short and simple with a 2 or 3 min breathing exercise every day and gradually increase your meditation duration. 
+2. Join a meditation group could help you keep yourself accountable as well.
+3. Pay attention to your presence and awareness, and observe what is happening with your thoughts, without judgements. 
+4. You can also seek help from technologies, mobile apps like Calm, Headspace are great tools for starters.",prompt compliance
+117,lsit ways having a diverse group of employees helps an organization.,"Diversity in a group of employees has numerous benefits. It enhances overall employee morale, fosters the development of the organization's cultural competence skills, diminishes fear among employees, boosts creativity in the workplace, reduces instances of micro-aggressions, enhances the organization's reputation, and promotes workplace innovation.",not a full sentence
+118,find mean of dataframe column in pandas,"To calculate the mean of a column in pandas, you can use the `mean()` function. Here is an example:
+ 
+import pandas as pd
+
+data = {'Name': ['Alice', 'Bob', 'Charlie', 'David'], 'Age': [25, 30, 35, 40], 'Salary': [50000, 60000, 70000, 80000]}
+df = pd.DataFrame(data)
+mean_age = df['Age'].mean()
+print(mean_age)
+ 
+ This will calculate the mean age of the four individuals listed in the 'Age' column.",code wrong
+119,What is the difference between an acid and a base?,"Acids are substances that can donate protons (H+ ions) when dissolved in water. They tend to have a sour taste and turn blue litmus paper red. Common examples include hydrochloric acid (HCl) and acetic acid (found in vinegar). Bases, on the other hand, are substances that can accept protons or release hydroxide ions (OH-) in aqueous solutions. They often feel slippery, have a bitter taste, and turn red litmus paper blue. Examples include sodium hydroxide (NaOH) and ammonia (NH3).",factual correctness
+120,"""repair instead of replace"" give 3-5 points to counter this argument","1) Repairing items often costs less than replacing them with new ones, thereby saving money which can be very beneficial if you are on a tight budget or can't spare the money required to buy new items.
+2) Repairing items extends their lifespan reducing the need to throw away wastage contributing to landfills
+3) Repairing items instead of replacing them helps to conserve natural resources by reducing the demand for new raw materials and the energy required for manufacturing, transportation, and disposal.
+4) Repairing items often involves hiring locally with people with the relevant expertise on repairing the broken item. Thus, supporting local businesses and creating employment opportunities for the community.
+5) Repairing items promotes an efficient economic structure where resources are utilized more efficiently, maximizing their value and minimizing waste throughout their lifecycle.",chattiness
+121,write a program to calculate the factorial of a numbrer in python,"def factorial(n):
+  if n == 0:
+    return 1
+  else:
+    return n * factorial(n-1) 
+  num = int(input(""Enter a number: ""))
+  print(f""The factorial of {num} is {factorial(num)}"")",code wrong
+122,Create a function to check if a given number is prime or not in python.,"def is_prime(n):
+  if n <= 0: 
+    return False
+  for i in range(2, int(n**0.5) + 1):
+    if n % i == 0:
+      return False
+    return True
+
+num = int(input(""Enter a number: ""))
+if is_prime(num):
+  print(f""{num} is a prime number."")
+else:
+  print(f""{num} is not a prime number."")",code wrong
+124,Create a program to convert Celsius to Fahrenheit. python,"def celsius_to_fahrenheit(celsius):
+  return (celsius * 9/5) + 32
+
+celsius = float(input(""Enter temperature in Celsius: ""))
+fahrenheit = celsius_to_fahrenheit(celsius)
+print(f""{celsius} Celsius is equal to {fahrenheit} Fahrenheit."")",code wrong
+125,Create a function that checks if a given string is a palindrome. python,"def is_palindrome(s):
+  return s == s[::-1]
+
+s = input(""Enter a string: "")
+if is_palindrome(s):
+  print(f""{s} is a palindrome."")
+else:
+  print(f""{s} is not a palindrome."")",code wrong
+126,Write a program to implement bubble sort algorithm in python code.,"def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n-1):
+        swapped = False
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j + 1]:
+                swapped = True
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+        if not swapped:
+            return arr
+
+arr = [int(input(""Enter a number: "")) for _ in range(5)]
+sorted_arr = bubble_sort(arr)
+print(""Sorted array:"", sorted_arr)",select fail_mode
+127,Give me a list of 10 commonly used seasonings in Chinese cooking in a numbered list,"These 10 seasonings are commonly used in Chinese cooking:
+
+1. Soy Sauce
+2. Oyster Sauce
+3. Hoisin Sauce
+4. Sesame Oil
+5. Rice Vinegar
+6. Five-Spice Powder
+7. Sichuan Peppercorns
+8. Ginger
+9. Garlic
+10. Scallions",prompt compliance
+129,give me synonyms for refuse in comma separated format,"Deny, reject, decline, rebuff, withdraw, withhold, turn down, protest",prompt compliance
+130,give me antonyms for refuse in comma separated format,"Accept, allow, approve, agree, consent, endorse, grant, OK",prompt compliance
+131,who created the first Teddy bear?,"Teddy bears' history dates back to a bear-hunting trip in 1912 when President Theodore 'Teddy' Roosevelt refused to kill a bear. The event made it to headlines of newspapers all over the US. Among them, the most famous one is from Clifford Berryman, he created a cartoon of the story and published it in the Washington Post on 16/11/1902. Morris Michtom then created a stuffed toy bear to pay respect to it. Morris and his wife owned a candy shop in Brookelyn and sales home-make toys in the shop too. They called the stuffed bear 'Teddy bear', and the sales of it soared since the day of its creation. There are a lot of famous teddy bear characters, including Care Bears, Yogi Bear, Teddy Ruxpin, Fozzie Bear, Little Bear, Berenstein Bears, Winnie the Pooh and Baloo!",formatting
+132,What are things I can do to help me score better on a test?,"Here are things you can do better to score better on a test:
+ 1. Pay attention to the instructor during class
+ 2. Attend office hours to ask questions you cannot figure out
+ 3. Study with a friend group
+ 4. Take proactive tests or do proactive questions
+ 5. Read the textbook or watch online tutorials
+ 6. Teach the material to others to hone your knowledge on different topics",spelling
+133,Bob's mother had 3 children. Two of them are Mary and Hugh. What is the name of the last child?,"The name of the last child is Bob, as stated in the sentence: ""Bob's mother had 3 children"".",factual correctness
+134,What are the primary ingredients and spices that go into Greek cooking?,"Some primary ingredients and spices commonly used in Greek cooking include:
+
+1) Olive oil: that can be used for cooking, dressing salads, and flavoring dishes.
+2) Herbs: Oregano, mint, dill, parsley, and thyme are commonly used to add flavor to various dishes.
+3) Garlic: Used in many savory dishes to add depth of flavor.
+4) Lemon: Fresh lemon juice or zest is often used to add acidity and brightness to dishes.
+5) Cheese: Cheese frequently used in salads, pies, and as a topping for various dishes.
+6) Yogurt: Yogurt used as both a condiment or an ingredient in sauces and desserts.
+7) Seafood: Fish, octopus, shrimp, and squid are common ingredients in Greek dishes.
+8) Vegetables: Tomatoes, eggplants, zucchini, onions, and bell peppers are widely used in Greek cooking, often roasted, grilled, or stewed.
+9) Grains: Rice, bulgur, and phyllo dough are commonly used in Greek dishes such as stuffed vegetables, pies, and pastries.
+10) Meats: Lamb, pork, and chicken are popular meats in Greek cuisine, often roasted, grilled, or braised with herbs and spices.
+
+In addition to these ingredients, common spices and seasonings include salt, pepper, cinnamon, cloves, nutmeg, and bay leaves.",chattiness
+135,ways to generate electricity,"Here are 4 ways to generate electricity:
+
+1. Utilize solar panels to efficiently harness the energy emitted by the sun.
+2. Employ a dynamo mechanism alongside sources of mechanical force, such as animals, to generate power effectively.
+3. Place wind turbines to capture the kinetic energy present in the wind and convert it into usable electricity.
+4. Use the power of steam to drive turbines, converting thermal energy into mechanical energy and eventually into electricity.",chattiness
+136,What are good gifts for a new mom?,"Here are some suggestions that a new mom may like:
+
+1. Offering babysitting coupons can be a lifesaver for new moms. Providing them with the opportunity to catch up on sleep, can truly make a world of difference.
+2 .Consider gifting a cleaning service for a month to alleviate some of the new mom's workload. It's a practical gift that can provide much-needed relief during a time when keeping up with household chores can be challenging.
+3. Treat the new mom to some relaxation and self-care with shower steamers or even a spa day. It's important for her to take some time for herself amidst the demands of caring for a newborn.
+4. Items like special underwear, ice packs, and other essentials can be overlooked but greatly appreciated. If the new mom undergoes a C-section, it's thoughtful to get the mom gifts she may need to make her recovery more comfortable.",chattiness
+137,What is the best way to improve your tennis skills?,"There are many ways to improve at tennis. One of the most important thing is to practice, as tennis needs coordination and strong reflexes. Like many other sports, it also needs dedication.
+One way to practice is hitting the ball against a wall. You can use any wide wall to practice. This way you can focus on hitting the ball better and improve your style. Playing against the wall is not enoguh, 
+you still need to play with other people so you can get better at hitting different shots. There are many club tournaments where you can play with other players. Finally, The most important thing is to have fun while consistently practicing. ",grammar
+138,Why do you love someone,Feelings are difficult for me to explain. One explanation can be made by stating to love someone is to experience a feeling which is considered exceptional for most people.,not a full sentence
+139,how to fight a speeding ticket?,You might try alternative ways to fight a speeding ticket. One of them is you may take a defensive driving course. It will take around 20 hours to complete the course content but you might speed it up by playing the videos at 2x speed. You may also listen it while doing other things. The other way is to hire an attorney to fight the speeding ticket inside the court. Remember this may cost more than the speeding ticket itself based on your preference and there is no guarantee that your speeding ticket would be cancelled by the court. You may also go to the court by yourself and defend your stance.,tone
+140,What are 15 different edible uses for Tomatoes?,"You may use tomato in many different ways. Some of them are:
+
+1 You may put them in Marinara Sauce
+
+2 You may use them to prepare a Really good Salsa
+
+3 You may use it as aHamburger Topping
+
+4 You may Bruschetta
+
+5 You may Prepare a nice turkish Breakfast Menemen
+
+6 You may use it to prepare a Pizza sauce
+
+7 You may cook a Grilled Tomato
+
+8 You may put them inside stews to get an Umami Flavor
+
+9 You may prepare a nice ketchup
+
+10 You may use them to prepare a tomato soup
+
+11 You may cook them with rice to make a tomato risotto
+
+12 You may prepare an enchilada sauce
+
+13 You may prepare Gazpacho a Traditional Spanish soup which is served cold
+
+14 You may prepare a tomato chutney
+
+15 You may use them inside salads like a tomato mozzarella salad",prompt compliance
+141,I need some ideas for a first date.,"For your first date, Coffee is always a good option. You may grab a coffee together and walk around, chat together inside the coffee shop, you may go to the park. Also, Having meals in the first date is also a quite common option. For original ideas, You may go to a Theme Park, an aquarium, Cinema or concerts together.",repetition
+142,What woodwind instruments are popular to learn?,"There are many popular woodwind instruments to learn. Flute, Clarinet and alto Saxophone are popular Woodwind instruments. You may also try Oboe and Bassoon as they are interesting but these instruments are less popular inbetween musicians.",not a full sentence
+143,Make me a list of the first four Americans who landed on the moon. in bullet points,"Here is a bulleted list of 4 americans that first landed on the moon
+
+- Neil Armstrong (As the commander of Apollo 11)
+- Edwin ""Buzz"" Aldrin ( Landed minutes after Neil Armstrong in Apollo 11)
+- Charles ""Pete"" Conrad (As the commander of Apollo 12)
+- Alan Bean(Serving as the lunar pilot of Apollo 12)",prompt compliance
+144,Suggest some brass instruments I can learn if I want to play in an orchestra?,"If you want to play in orchestras French Horn, Trombone, Trumpet and Tuba are commonly played brass instruments in orchestras. It might be a good idea to learn trumpet or trombone since these are instruments with a slightly steeper learning curves.",chattiness
+145,Give me a bulleted list of the five plus five most recent Italian prime ministers.,"10 recent Italian prime ministers and their serving years are listed as follows: 
+
+- Silvio Berlusconi (2001–06; 2nd time)
+- Romano Prodi(2006–08; 2nd time)
+- Silvio Berlusconi(2008–11; 3rd time)
+- Mario Monti(2011–13)
+- Enrico Letta (2013–14)
+- Matteo Renzi (2014–16)
+- Paolo Gentiloni (2016–18)
+- Giuseppe Conte (2018–21)
+- Mario Draghi(2021–22)
+- Giorgia Meloni(2022– )
+Remember, There are actually less than 10 people here because some ministers are elected more than once during their political life.",prompt compliance
+146,What's the best for indoor plant?,"Some tips for indoor gardening is as follows: 
+
+- Less H2O. Interior plants need less water in winter. So reducing the amount of water you feed them might be a good idea
+- Hold the fertilizer. Plants are dormant in the winter and do not need an artificial boost of growing power.
+- Let in light and keep plants clean. Make sure your plants receive enough sunlight and keep leafy plants clean
+- Increase humidity o combat dry indoor air
+- Prepare for spring.
+- Cut away old growth.
+- Refresh the soil.",prompt compliance
+147,Why you should sleep at least 7 hours,"There are many different views on how much sleep should human body needs daily to operate properly. But it is known that getting enough sleep reduces your risk for serioıus health problems, like diabetes and heart diseases. It reduces stress and improves mood. Also, it enables to think more clearly and do better at awaken time",chattiness
+148,What are some types of things you can cook at a campfire? in a numered list,"You can cook a lot of things at the campfire but sharable or high nutrition valued foods might be a good idea for camping groups. Some of them are:
+
+1- S’more Marshmallows
+
+2- Hot dogs
+
+3- Baked Potatoes
+
+4- Corns
+
+and many more other foods.",prompt compliance
+149,How many times Fernando Alonso won the F1 championship ?,He won the F1 Championship 2 times. He became a Champion in 2005 and 2006 consecutively.,not a full sentence
+150,What are five hobbies I can do in my spare time?,"Hobbies can be a great way to spend your free time and can also help you learn and grow as a person. Five popular hobbies include Learning a new language, watching TV and movies, playing the piano, taking photographs, and exercising.",spelling
+151,What are some things that we can do to help the environment?,"You can do many things to help the environment and live a sustainable life. Some of them include:
+
+- Minimizing the use of plastics
+- Using public transport instead of a personal vehicle
+- Using Carpooling to reduce Carbon footprint
+- Reducing consumption avoiding to buy seemingly unnecessary goods
+- Buying products made out of recycled materials
+- Recycling plastics, glass or metals
+- Turning of electrical appliance when not using them
+- Using reusable straws instead of plastic straws
+- Using energy efficient electrical appliance
+- Prefering electric powered vehicles instead of gas powered ones",spelling
+152,Give me a list of 7 continents in the world in alphabetical order. Only give the list and nothjing else.,"Africa
+Antarctica
+Asia
+Australia
+Europe
+North America
+South America",prompt compliance
+153,What are some good activities to keep kids busy while traveling?,"Having lots of activities at hand is key to an enjoyable trip with your kids. Some activity ideas include: 
+
+- Bringing device games or movies (be sure to bring headphones)
+- Coloring, Reading books (load these on the device too)
+- Playing i spy
+- Playing the license plate game (keep track of the different states)
+- Practicing shoe tying
+- Singing songs (better for car trips)
+- Playing cards
+
+When you need a break, bring out the snacks!",formatting
+154,Give me an idea for repurposing my empty egg carton and instructions on how to do it.,"You can repurpose your empty egg carton to grow seeds into small sprouted seedlings. 
+
+1- Fill each egg cup with a small amount of soil. 
+
+2- Poke a little hole in the center of each soil mound. 
+
+3- Put 2-3 seed's into the center of each soil mound and cover with a little soil. 
+
+4- Place in front of a bright window and water regularly to encourage growth.
+
+When the seeds sprout, you can plant them!",spelling
+155,What are some quick vegan dinners that I can make during the week?,"Some good ideas for quick vegan dinners that you can make in 15-30 minutes or less include several pasta dishes like vegan carbonara, Cilantro pesto and vegan pasta Alfredo or dishes that come quickly together like Chinese style fried rice to which you can add different proteins like lentils, chickpeas or tofu. Salads are also a good candidate for quick dinners since you can be quite flexible in your combinations and usually do not require to heat up or cook any of the ingredients.",prompt compliance
+156,What are some common items on a charcuterie board? put in a list,"Common items on a charcuterie board includes:
+
+- Cured meats such as, slice cured sausages, pepperoni, prosciutto, or even if you want to go fancier Jamon Iberico might be an option
+- Various cheeses including, goat cheese,manchengo cheese, white cheddar
+- Some fruits and pickles including, baby dill pickles, dried apricots, grapes, strawberries, raspberries
+- also various items such as jam, crackers, and chocolate covered almonds.",prompt compliance
+157,What are a few things to do when visiting Southern Vietnam? bullet list,"Here are some to do when visiting Northern Vietnam:
+
+- Go to Ta Cu Mouintain and see the largest Buddha Statue in the World. This is a great way to experience the beauty and local culture of Buddhism in Northern Vietnam.
+- Take a cruise on Mekong River. This river is a great place to relax and take in the views as you sail through the main artery of Southeast Asia.
+- Visit Ho Chi Minh City and go on a food tour. This is one of the best ways to experience the local culture of Vietnam through authentic Vietnamese cuisine.
+- Spend a day exploring the stunning tunnels of Cu Chi Tunnels. Builty by the Viet Cong in 1940s as protection from French air raids, Cu chi tunnels extend underground for more than 155 miles.",prompt compliance
+158,What are some ways you can stop your toddler from crying?,You might give your toddler a hug to comfort him/her; try to reconcile the fight between the siblings if that is the source of conflict; try singing songs to calm him/her down.,tone
+159,What factors influence mental health issues in young people? in numbered list,"Some of the societal factors influencing mental health issues in young people might be considered as:
+
+1. High inflation: The rising cost of living can cause financial strain and stress, impacting mental health.
+2. Wage stagnation: Stagnant wages can make it difficult for individuals to keep up with the increasing cost of living, leading to financial stress and anxiety.
+3. Limited job prospects: A lack of job opportunities or job insecurity can contribute to feelings of uncertainty, low self-worth, and depression.
+4. Poor access to physical and mental healthcare: Barriers to accessing affordable and quality healthcare can lead to untreated physical and mental health issues, exacerbating symptoms and impacting overall well-being.
+5. Lack of home ownership: The increasing cost of housing and the difficulty in securing stable housing can contribute to feelings of instability and stress.
+6. Superficial internet presence: The pressure to present a curated and perfect life on social media can lead to feelings of inadequacy, low self-esteem, and social isolation.",spelling
+160,"What are five totally distinct, creative ways to describe the usefulness of the police?","1. The police serve as a ""watchful guardian"" to keep us safe.
+2. The police are ""Community Stewards"" who nurture and protect the community.
+3. The police are ""Justice Enablers"" who strive for fairness and righteousness where there is wrongdoing.
+4. The police are ""Crisis Mitigators"" who are there to help even in emergencies.
+5. The police are ""Empowerers of Hope"" who represent authority and hope, instilling confidence in any individual.",prompt compliance
+161,list what business strategies or initiatives do you think will be key to Uber's long-term growth in bullet points?,"Business strategies and initiatives that will be key to Uber's long-term growth include:
+ - Expansion of Uber Rides into new markets (e.g., South Korea, Japan, Germany)
+ - Growth of Uber Advertising (e.g., sponsored listings, journey ads, car top ads)
+ - Customer adoption of Uber One membership 
+ - Growth of New Verticals on the Uber Eats platform (e.g., Grocery, Convenience, Alcohol)
+ - Expansion of Uber Direct to more markets and merchants
+ - Launching additional services on the Uber Rides platform (e.g., car rentals, high capacity vehicles, reserve)
+ - Scaling Uber for Business products, including Uber Health, Central, and Vouchers
+ - Launching self-driving vehicles on the platform
+ - Growing the number of restaurants on the Uber Eats platform
+ - Intelligently cross-selling products across both platforms",prompt compliance
+163,How do you make an Old Fashioned Cocktail?,"Old Fashioned is one of the most famous whiskey cocktails in the world. The ingredients for this classic cocktail include:
+- 1 teaspoon sugar
+- 3 dashes Angostura bitters
+- 1 teaspoon water
+- 2 ounces bourbon (or rye whiskey, if preferred)
+- Garnish: orange twist
+After you gather those ingredients it can be prepared in 4 easy steps:
+
+1- Add the sugar and bitters into a mixing glass, then add the water, and stir until the sugar is nearly dissolved.
+
+2- Fill the mixing glass with ice, add the bourbon, and stir until well-chilled.
+
+3- Strain into a rocks glass over one large ice cube.
+
+4- Express the oil of an orange twist over the glass, then drop into the glass to garnish.
+
+Now, you're good to go! Enjoy your drink.
+
+",formatting
+164,What are the main types of Thai curries and their explanaitions?,"Curries are really important when it comes to Thai cuisine. There are 3 main types of Thai Curries which are red,yellow and green.
+Traditionally all of them are made with the same ingredients except the chilies which give them their color and name.
+Red curry is made with several red chillies for exceptionally spicy dishes, while green curry is made with green chillies and yellow curry is made with yellow chillies.",prompt compliance
+165,What can a work group do to promote psychological safety? explain in paragraph,"A work group should respect personal time of the individuals by not disturbing them when the teammate is away.
+Also, in order to understand how they really feel about the group, detailed and specific feedback should be taken from every individual in the group.
+Whenever there may be a misunderstanding, teammates should assume positive intent inbetween each other. In addition, Roles should be clarified inside projects for preventing
+inbalanced work distribution. Last but not least, directness between team members should be encouraged to form good relationships.",formatting
+167,What are some common types of monstera? list them only,"Deliciosa, Adansonii, Minima, Taureii, Thai Constellation, Silver, and Karstenianumen are some common types of Monstera.",prompt compliance
+168,Come up with gift ideas for your girlfriend with short explanations.,"Here are some possible gift ideas for girlfriend and a short explanation for each of them:
+ - romantic date: Going on to a romantic date may not be considered as a gift but if you think for an interesting date idea such as a short trip, it might be more powerful than most of the gifts.
+ - flowers: Flowers are always considered as a classic gift for a partner.
+ - plushies: Simply put, who doesn't love plushies?
+ - shoes: If you know her shoe size, than buying her favourite shoe may be a really considerate gift.
+ - clothing: Although it might not be safe, You might come up with a romantic clothing if you know her taste.
+ To make a good gift, think of things that your girlfriend likes most. You should customize your gift based on her interests.",prompt compliance
+169,What are the top 10 songs on the Billboard Year End list from 1988?,"The top 10 songs from the Billboard Year-End Hot 100 singles of 1988 are as follows:
+
+1- ""Faith"", George Michael
+2- ""Need You Tonight"", INXS
+3- ""Got My Mind Set on You"", George Harrison
+4- ""Never Gonna Give You Up"", Rick Astley
+5- ""Sweet Child o' Mine"", Guns N' Roses
+6- ""So Emotional"", Whitney Houston
+7- ""Heaven Is a Place on Earth"", Belinda Carlisle
+8- ""Could've Been"", Tiffany
+9- ""Hands to Heaven"", Breathe
+10- ""Roll with It"", Steve Winwood",factual correctness
+170,Provide a bulleted list of 5 cool things to do in Europe,"The following are 5 cool things to do in Europe:
+- Go running with the bulls in Pamplona, Spain.
+- Watch a Real Madrid vs Barcelona soccer game.
+- Party in the night clubs of Ibiza.
+- Visit Croatia in the yacht week. 
+- Drink as many beers as you can in Germany at Oktoberfest.",repetition
+171,Tell me who the first three countries to give women the vote were. Give it to me in a bulleted list.,"The first three countries to grant the right of women to an equal vote were:
+ - New Zealand (1893)
+ - Australia (1902) 
+ - Finland (1906)",factual correctness
+172,"We all know the saying ""what goes up must come down,"" but what goes up but does not come down?","This is a metaphorical saying stating if something goes too well for a period of time. There must be a moment where it slows down and go worse.
+So, giving an answer to it is hard since it can point to many things.",correctness
+173,"Provide a list of ten countries that don't have any ocean borders, in reverse alphabetical order.","
+The following countries are landlocked and have no coastal borders:
+- Zimbabwe
+- Switzerland
+- Serbia
+- Nepal
+- Laos
+- Hungary
+- Bolivia
+- Bhutan
+- Austria
+- Afghanistan",prompt compliance
+174,List as many types of craft beer,"Here is a list of craft beers: 
+IPA, pale ale,wheat beer, lager,pilsner,stout, porter, brown ale,sour, saison, red ale, imperial stout, mild ale, english special bitter,IPA, sour IPA, cream ale.
+Although these are not all types of craft beer. It should provide a sufficient quantity.",not a full sentence
+175,Give me a bulleted list of different ways to get around a city without a car,"
+Here are some ways to get around a city without using your car.
+ - You might walk to your destination.
+ - You might take public transportation such as the bus or subway.
+ - If you have one and know how to ride it, you might ride a bike to where you're heading.
+ - You might call a Taxi, if you don't want to drive by yourself or if you don't have a personal vehicle.
+ - Riding a Scooter to your destination is a good idea.
+ - Asking your friends to drive you or carpooling is also an option.
+ - You can always use the classic hitchhiking.",chattiness
+176,give me a list of some of the ways a person can hydrate,"
+Here are some of the ways to hydrate yourself:
+
+- Drinking water: The classic way to hydrate yourself is through drinking a big glass of water.
+- Eating water-rich foods: Fruits and vegetables like cucumbers,oranges and tomatoes are a really healthy way of hydrating.
+- Consuming Electrolytes: Drinks like Gatorade, powerade are a way of hydrating if you're doing an intense physical activity that causes you to sweat heavily.
+- Drinking Infused water: Enhancing the flavor of water is encouraging t",sensibleness
+177,Can you offer tips for visiting Mexico City for fun?,"Mexico City is a culturally rich destination with a lot of amazing things to do. Here are some tips to get around and have fun: 
+
+
+1- You may explore the Historic city center surrounded by many magical buildings such as the National Palace, the Metropolitan Cathedral, and the Temple Mayor. You should consider starting your journey from here. 
+
+
+2- You should enjoy the food by trying local dishes like tacos Al pastor, tamales, and churros. Try visiting traditional markets or enjoy dining in neighborhoods like Polanco and Condesa. 
+
+
+3- Visit the ancient ruins located just outside the city including The Pyramids of the Sun and Moon
+
+
+4- You should enjoy the vibrant night life of the Mexico City. Areas like Condesa, Roma, and Polanco offer amazing bars and clubs. If you want to be more traditional, follow the sound of  mariachi music at Plaza Garibaldi
+
+",prompt compliance
+178,What are few different ways to describe the changing shape of the moon?,"The primary phases are the new moon, first quarter, full moon, and last quarter. The secondary phases are waxing crescent, waxing gibbous, waning crescent, and waning gibbous. The term waxing refers to the growth of the moon's image, while the term waning refers to a shrinking image.",factual correctness
+179,Why f1 drivers earn so much,Because of the risk factors and popularity of this sport.,punctuation
+180,Suggest 5 romance films to me,"Certainly! Here are five romance films from various genres and eras:
+Pride & Prejudice
+The Notebook
+La La Land
+Call Me by Your Name
+Titanic",correctness
+181,Give me a bulleted list of the fastest way to get from to cross the English Channel in a nonconventional way?,"Outside of conventional means of transport such as cars, trains, airplanes, and boats, you could try the following options: 
+ * Hot air balloon 
+ * Jetpack 
+ * Hovercraft
+ * Submarine",prompt compliance
+182,how to use a wax,"Here are the general procedures for applying wax, which may differ based on its type and intended use:
+1. Prepare the Surface: Make sure the area you want to wax is dry and clean first. If necessary, you can also use sanding or buffing to eliminate old wax or smooth out any blemishes.
+2. Select the Right Wax: Whether you're working with candle wax, furniture wax, or auto wax, pick the right kind of wax for the job at hand.
+3. Apply the Wax: Apply a thin, even layer of wax to the surface using a clean cloth, sponge, brush, or applicator. To guarantee even covering in a big area, work in tiny pieces.
+4. Buff or Polish: Utilize a clean, sterile cloth after following the manufacturer's drying time guidelines.",prompt compliance
+183,Provide me a list of some ways to get exercise that are fun,"Here are a few of the ways to get exercise that are fun
+1. Discover a new route on your bike.
+2. Walk your dog (or volunteer to take your neighbor's dog for a walk if 
+ you don't have one)
+3. Master a skipping-rope routine.
+4. Play frisbee at the park.
+5. Attend your local gym.
+6. Go Swimming.
+7. Host a dance party.
+8. Use the stairs instead of the lifts.
+",prompt compliance
+184,Give me a bullet list of 6 different types of Christianity,"Certainly! Here's a bullet list of six different types of Christianity:
+* Catholic
+* Lutheran
+* Protestant
+* Baptist
+* Eastern Orthodox
+* Oriental Orthodoxy
+",factual correctness
+185,Create a checklist of newborn essentials.,"Certainly! Here's a checklist of newborn essentials:
+- Crib
+- Crib mattress 
+- Night-light
+- Pacifiers
+- Burp cloths
+- Bottle warmer
+- Bottlebrush
+- Bottle sterilizer
+- Diapers
+- Wipes",formatting
+187,"Which of the following animals are marine mammals: Human, Dog, Bonobos, Cat, Bats, Whale shark, Bears, Orangutans, Great white shark, Lion, Ocean sunfish, Koala, Cheetah, Beluga sturgeon, Orca, Gorillas, Camel, Hamsters, Lemurs, Blue whale, Chimpanzee","Of those animals you mentioned, some of them are mammals, some are marine animals and only a smaller number of them are marine mammals. Orcas and Blue whale can be classified as marine mammals.",factual correctness
+188,Can you make a numbered list of some cities I could visit in Spain?,"Of course! Here's a numbered list of some cities you could visit in Spain:
+1.Madrid
+2.Sevilla
+3.Barcelona 
+4.Segovia
+5.Toledo 
+6.Cordoba
+7.Cadiz",formatting
+189,what are the benefits of reading to your children?,"Reading to your kids benefits both the kids and yourself. Children learn empathy, expand their vocabulary, become better listeners, and develop their imagination by listening to the stories and creating their own vision in their minds. They also develop new skills based on the content of the books. For example, they learn how the human body works if you read them books about body parts; they will understand emotions better if you introduce them to cute picture books on feelings. A good children's story has repetition, relatable characters, and predictability. The stories of Goldilocks, the Three Little Pigs, Jack and the Beanstalk, and Charlie and the Chocolate Factory are some good examples. If kids can recite the stories or rephrase them to others, they have learned to express themselves!",grammar
+190,How can I become more active and do more exercise?,"Here are some ideas that you can add to your daily life to increase activity and build a regular exercise routine. 
+Riding a bike - you could ride your bike to work or take a casual ride with a friend or family member, if you prefer to stay indoors take a spin class at a local gym.
+Walking - take your dog for a walk or borrow a dog from a friend or neighbor, this could make walking more fun. If you are commuting to work you could get off the train or bus a stop early and walk to the office or take the stairs instead of the elevator.
+Running - all you need is your sneakers and minimum sports kit, you could get up 30 minutes early and take a short run before work, if you enjoy this sign up for a charity run for extra motivation, or join a local park run.
+Swimming - a high-impact activity that will help improve all aspects of your fitness.
+Resistance training - using bodyweight or free weights at a gym will help you improve your strength and tone your muscles and it is also great for your mind.",spelling
+191,Which months have 31 days?,"January, March, May, July, August, October, and December have 31 days.",factual correctness
+192,Give me a list five tourist attractions from different countries to visit in Europe,"Sure, here are five tourist attractions from different countries in Europe:
+1. Rome, Italy - Colosseum
+2. Paris, France - Eiffel Tower
+3. Lisbon, Portugal - Belém Tower
+4. Amsterdam, Netherlands - Rijksmuseum
+5. Barcelona, Spain - Sagrada Família",prompt compliance
+194,What are some good body weight exercises for the lower body?,"Some good exercises to strengthen the lower body include box, squats, lunges, side lunges, one leg Romanian deadlifts, glute marches, and curtsey squats.",punctuation
+196,What are some string instruments I could learn so that I can play in a group?,"Here are some string instruments you could learn to play in a group setting: cello, violin, guitar, bass guitar, or ukulele.",spelling
+198,"Tell me what I should do in London, England in a single paragraph.","If you're visiting London, it may feel daunting attempting to take advantage of everything this cosmopolitan city has to offer. But that's part of its magic, there's something for everyone! I highly recommend wandering through the vendor stands at Borough Market in Southwark, it's only open for lunch and you should bring cash because most vendors don't take cards! If you're looking for a high-end restaurant, try Chiltern Firehouse in Marylebone. Another popular option is Dishoom: it's an upscale Indian restaurant with multiple locations and worth the hype. And for lighter fare, indulge in the English custom of afternoon tea! You could try Sketch in Mayfair or The Savoy in Covent Garden for completely different experiences. Sketch is definitely a millennial's take on tea and it's very trendy, whereas The Savoy is more traditional. Another idea is to grab a drink. You might think of dark pubs when you think of London, but it is also home to some of the best cocktail bars in the world. For a unique experience, find a ""public bathroom bar"" or a speakeasy-like Keystone Crescent Members Club. Shoreditch has plenty of options for the imbibers, like Ace Hotel Rooftop and Old St Records. Then there's Duke's Bar in Mayfair, which is a famous spot for a martini since Ian Fleming used to hang out there when he was writing James Bond novels. Additionally, you can visit a museum. The Tate Modern offers free entry and an excellent view of the city. It's on the south side of the Thames, and you can wander from there to the Shakespeare Globe. The National Portrait Gallery will keep you entertained, even though it really is home to all portraits, but you can learn a lot about British history by reading through the biographies of public figures featured. I also recommend seeing which artist's work the Hayward Gallery at the Southbank Centre is exhibiting, since it's an excellent space. The Tower of London is a classic for visitors: the castle is a World Heritage Site and where you need to go if you want to admire the Crown Jewels. As another idea, you can see a show. If you live or often see Broadway shows in New York, this might be less exciting to you, but London shows are relatively easy to secure tickets for, and a great activity if you're interested in experiencing even more British culture. Also, don't miss the famous Harrod's, the iconic department store with an iconic food floor. Liberty is another well-known London department store. Less expensive, and known for their stationary. And if department stores aren't your thing, pop into local boutiques!",formatting
+202,list are the best superhero movies of 2022 in json?,"Here's a list of some of the best superhero movies of 2022 represented in JSON format:
+[
+  {
+    ""title"": ""The Batman"",
+    ""release_date"": ""2022-03-04"",
+    ""studio"": ""Warner Bros.""
+  },
+  {
+    ""title"": ""Doctor Strange in the Multiverse of Madness"",
+    ""release_date"": ""2022-05-06"",
+    ""studio"": ""Marvel Studios""
+  },
+  {
+    ""title"": ""Black Panther: Wakanda Forever"",
+    ""release_date"": ""2022-11-11"",
+    ""studio"": ""Marvel Studios""
+  },
+  {
+    ""title"": ""Black Adam"",
+    ""release_date"": ""2022-10-21"",
+    ""studio"": ""Warner Bros.""
+  }
+]",formatting
+,Give me a list of some different winter holidays that occur in the United States,"Some winter holidays include Christmas Eve, Christmas Day, and St. Stephen's Day.",factual correctness
+203,Why capri is so famous,Capri is famous Italian island for it's nice ocean color and it's mountain view.,punctuation
+204,"Give me a numbered list of ten Mayan ruins to visit in Central America. add the country that the ruin is in after the name of the ruin, separate by semicolon","Here's a numbered list of ten Mayan ruins to visit in Central America, along with the country where each ruin is located:
+1. Chichen Itza; Mexico
+2. Tikal; Guatemala
+3. Caracol; Belize
+4. Copán; Honduras
+5. Palenque; Mexico
+6. Tulum; Mexico
+7. Uxmal; Mexico
+8. Monte Alban; Mexico
+9. Calakmul; Mexico
+10. Ek Balam; Mexico",formatting
+205,Can cars have odd number of wheels?,"Yes, cars can have an odd number of wheels, but it is very uncommon. Four wheels are standard on most traditional cars for both stability and design effectiveness. ",correctness
+206,is daylight saving necessary at all?,"Daylight Saving Time (DST) is debated for its potential benefits in extending evening daylight and possibly conserving energy, but it also faces criticism for disrupting sleep patterns and showing minimal modern energy savings. Many argue for a consistent year-round time to avoid the biannual clock changes.",prompt compliance
+207,Who are the main cast of It's Always Sunny in Philadelphia in json with keys character name and actor name?,"Here's the main cast of ""It's Always Sunny in Philadelphia"" represented in JSON format:
+[
+  {
+    ""character_name"": ""Mac"",
+    ""actor_name"": ""Rob McElhenney""
+  },
+  {
+    ""character_name"": ""Dennis Reynolds"",
+    ""actor_name"": ""Glenn Howerton""
+  },
+  {
+    ""character_name"": ""Dee Reynolds"",
+    ""actor_name"": ""Kaitlin Olson""
+  },
+  {
+    ""character_name"": ""Charlie Kelly"",
+    ""actor_name"": ""Charlie Day""
+  },
+  {
+    ""character_name"": ""Frank Reynolds"",
+    ""actor_name"": ""Danny DeVito""
+  },
+  {
+    ""character_name"": ""The Waitress"",
+    ""actor_name"": ""Mary Elizabeth Ellis""
+  }
+]",formatting
+208,Give me a list of different cat species that are good for people with allergies with bullet list.,"There are a few different breeds of cats that produce less of the common allergens. These include:
+* Hairless Sphynx
+* Siberian
+* Balinese
+* Bengal
+* Cornish Rex
+* Devon Rex
+* Russian Blue
+* Oriental Shorthair
+* LaPerm
+* Siamese breeds",formatting
+210,Pick a few months with 32 days.,"There are no months with 32 days. Every month in the Gregorian calendar has either 28, 29, 30, or 31 days.",factual correctness
+211,Give me a list of the 10 most recent NFL Super Bowl Winners until 2023 in numbered list with years,"Here's a numbered list of the 10 most recent NFL Super Bowl winners up until 2023:
+1) Kansas City Chiefs 2023 
+2) Los Angeles Rams 2022 
+3) Tampa Bay Buccaneer 2021 
+4) Kansas City Chiefs 2020 
+5) New England Patriots 2019 
+6) Philadelphia Eagles 2018 
+7) New England Patriots 2017 
+8) Denver Broncos 2016 
+9) New England Patriots 2015 
+10) Seattle Seahawks 2014 ",formatting
+212,Name 10 European cities,"Here are 10 European cities: Paris, London, Rome, Venice, Madrid, Barcelona, Positano, Naples, Athens, Berlin",factual correctness
+213,Give me sixx examples sedimentary rocks.,"Certainly! Here are six examples of sedimentary rocks: Limeston, sandstone, conglomerate, shale, coal and siltstone are sedimantary rocks. ",prompt compliance
+214,what are some things you can do on a snowy day,"Here are the activities you can do on a snowy day: 
+- Build a snowman 
+- Snow angels 
+- Snow castle 
+- Snowball fight ",prompt compliance
+215,"Who went to space first? give name, nationality only",Yuri Gagarin from the Soviet Union was the first human in space.,prompt compliance
+216,top mobile Brands and an example mobile phone,"Here are some top mobile brands along with an example mobile phone for each brand:
+Apple - iPhone 15 Pro Max
+Samsung - Galaxy S24 Ultra
+Oneplus - OnePlus Open
+Redmi - Redmi Note 13 Pro+
+Motorola - Motorola Edge 40 Pro
+Huawei - Huawei Mate 60 Pro Plus
+Vivo - Vivo Y200 5G",prompt compliance
+217,What are five different names I could pick for my new male dog in JavaScript Object Notation ?,"Here are five different names for your new male dog represented in JSON format:
+{
+  ""dog_names"": [
+    ""Buddy"",
+    ""Rex"",
+    ""Fifo"",
+    ""Spot"",
+    ""Lucky""
+  ]
+}",formatting
+218,What are some classic board games to play with the family?,"Classic board games are a fantastic choice for family game nights. Here are some timeless favorites Monopoly, Scrabble, Trivial Pursuit, Chess and Backgammon.",correctness
+219,How many times Daniel Ricciardo won the F1 championship ?,Daniel Ricciardo has not won a Formula 1 World Championship. ,tone
+220,Give me some quotes from Plato that I might use in a school assignment,"Certainly! Here are some quotes from Plato that you might find useful for a school assignment:
+
+- “Love is a serious mental disease.” 
+- “When the mind is thinking it is talking to itself.” 
+- “Human behavior flows from three main sources: desire, emotion and knowledge.” 
+- “Wise men talk because they have something to say; fools, because they have to say something.” 
+- “Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.” 
+- “One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors.” 
+- “Man-a being in search of meaning.” 
+- “Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of lover, everyone becomes a poet.” 
+- “There are two things a person should never be angry at: What they can help, and what they cannot.” 
+- “People are like dirt. They can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die.”",factual correctness
+221,What is success,"Satisfaction levels define the success, success defined for one person may not be true for other.",punctuation
+224,What are some Machine Learning Algorithms and their use cases in json,"Certainly! Below are some common machine learning algorithms along with their typical use cases represented in JSON format:
+ {
+  ""machine_learning_algorithms"": [
+    {
+      ""name"": ""Linear Regression"",
+      ""use_cases"": [
+        ""Predicting house prices"",
+        ""Forecasting sales"",
+        ""Estimating insurance premiums""
+      ]
+    },
+    {
+      ""name"": ""K Means"",
+      ""use_cases"": [
+        ""Customer segmentation"",
+        ""Image compression"",
+        ""Anomaly detection""
+      ]
+    },
+    {
+      ""name"": ""Decision Trees"",
+      ""use_cases"": [
+        ""Credit risk assessment"",
+        ""Fraud detection"",
+        ""Medical diagnosis""
+      ]
+    },
+    {
+      ""name"": ""Neural Networks"",
+      ""use_cases"": [
+        ""Image recognition"",
+        ""Speech recognition"",
+        ""Natural language processing""
+      ]
+    },
+    {
+      ""name"": ""Support Vector Machines"",
+      ""use_cases"": [
+        ""Text classification"",
+        ""Face detection"",
+        ""Bioinformatics""
+      ]
+    }
+  ]
+}
+",prompt compliance
+226,Give me a list of the teenage mutant ninja turtles with their colors,"Sure! Here are the names of the Teenage Mutant Ninja Turtles and their colors:
+ 1. Leonardo - blue
+ 2. Donatello - purple
+ 3. Raphael - red
+ 4. Michelangelo - orange ",prompt compliance
+227,What were the best TV shows of 2021?,"The best television shows from 2021 (with the network in parentheses) were:
+ 1. Hacks (HBO Max)
+ 2. For All Mankind (Apple TV+)
+ 3. Reservation Dogs (FX on Hulu)
+ 4. Only Murders in the Building (Hulu)
+ 5. The Underground Railroad (Amazon Prime Video)
+ 6. It’s a Sin (HBO Max)
+ 7. Succession (HBO)
+ 8. Maid (Netflix)
+ 9. The White Lotus (HBO)
+ 10. WandaVision (Disney+)",correctness
